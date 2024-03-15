@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Computational sociology & data science
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Senior Researcher</p>
+    <p>University of Maryland</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! My name is Sean, and I am an Assistant Research Scientist on the Radicalization and Disengagement (RaD) team at the [START Consortium](https://start.umd.edu/), located at the University of Maryland, College Park. I hold a Ph.D. in sociology from George Mason University with a focus on computational sociology, digital sociology, and political economy.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on the epistemological challenges and the social, cultural, and political economic conflicts arising from social media and digital technology. I am interested in understanding how individuals come together to make sense of the contemporary world and collectively determine what they see to be true or false in our historical context of platform capitalism, informational surplus, participatory media, and alternative networks of information and disinformation with a focus on the implications for radicalization and political violence.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research applies deep neural language modeling alongside quantitative and qualitative social science inquiry to study diverse topics across a variety of datasets. Working at the intersection of social science and data science, I have expertise developing and managing data science workflows, including building and scaling large databases, training and fine-tuning machine learning models, and deploying trained models for inference.
+
+Feel free to get in touch!
